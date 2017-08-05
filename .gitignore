@@ -1,0 +1,26 @@
+*.class
+
+#package file
+*.jar
+*.war
+*.ear
+
+#maven ignore
+target/
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.imi
+*.iws
+
+#temp file
+*.log
+*.cache
+*.patch
+*.tmp
+
+#system ignore
+.DS_Store
+Thumbs.db
